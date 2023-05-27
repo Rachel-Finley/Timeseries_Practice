@@ -1,1 +1,1 @@
-## Folder for practice with LSTM's for time-series predicitions
+## Folder for practice with LSTM's for time-series forecasting
