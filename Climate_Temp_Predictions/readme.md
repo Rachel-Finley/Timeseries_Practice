@@ -1,1 +1,7 @@
-## Folder for projects that work with temperature data
+________________________________________________________________________________________________
+## Project to do apples-to-apples comparison of two different models for sequence prediction.
+________________________________________________________________________________________________
+### Models Used:
+#### - LSTM
+#### - RNN with Attention Mechanism
+________________________________________________________________________________________________
